@@ -1,0 +1,24 @@
+Trello Link: https://trello.com/b/YqYhSdtH/qa-lab
+
+
+How did you find the bugs that you found?
+Reviewing the site and thinking about the most used functionality on the site (especially for sites without documentation)
+
+Compare your tests to your classmates
+Are your tests more broad or specific?
+
+What are the pros and cons of specific test steps?
+Pros
+There are only a few ways the tests could come back
+
+Cons
+Tedious to itemize in steps
+
+What are the pros and cons of broad test steps?
+
+Pros
+Because it is broad, it may seem relatively easy to explain in steps or relatively easy to assume that the tests run without bugs
+
+Cons
+There are a lot of ways that the test could miss bugs
+Becuase it is broad, you have to be thorough in the way you test it. There could be way more than one bug per broad test
